@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Jonathan Vegas Peixoto</Authors>
+    <Description>A Library for reactive programming</Description>
+    <Company>FAST MULTIPLATFORM DEVELOPMENT</Company>
+    <Version>1.1.0</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
